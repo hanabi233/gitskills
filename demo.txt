@@ -1,1 +1,2 @@
 branch strategy
+Git is a wonderful creation.
