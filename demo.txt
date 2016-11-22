@@ -1,2 +1,4 @@
 branch strategy
+bug branch
 Git is a wonderful creation.
+
